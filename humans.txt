@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ben -- project user  -- @me
 
 # THANKS
 

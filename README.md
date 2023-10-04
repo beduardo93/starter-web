@@ -14,3 +14,6 @@ We use this sample to demonstrate several uses of Git
 
 ## Copyright
 2023 Git.training
+
+## How to contribute
+Please fork this repository and then issue pull requests for review

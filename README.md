@@ -11,3 +11,6 @@ This website will not be deployed
 
 ## Introduction
 We use this sample to demonstrate several uses of Git
+
+## Copyright
+2023 Git.training

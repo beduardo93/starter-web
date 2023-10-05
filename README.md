@@ -11,6 +11,7 @@ This website will not be deployed
 
 ## Introduction
 We use this sample to demonstrate several uses of Git
+Note: this is line is to exemplify how to rebase.
 
 ## Copyright
 2023 Git.training

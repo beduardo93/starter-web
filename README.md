@@ -11,7 +11,7 @@ This website will not be deployed
 
 ## Introduction
 We use this sample to demonstrate several uses of Git
-Note: this is line is to exemplify how to rebase.
+Note: this is line is to exemplify how to rebase, then more changes from myfeature branch too.
 
 ## Copyright
 2023 Git.training

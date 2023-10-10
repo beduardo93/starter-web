@@ -15,6 +15,6 @@ Note: this is line is to exemplify how to rebase, then more changes from myfeatu
 
 ## Copyright
 2023 Git.training
-
+All rights reserved
 ## How to contribute
 Please fork this repository and then issue pull requests for review
